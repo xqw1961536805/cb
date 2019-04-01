@@ -35,6 +35,8 @@
           background-repeat: repeat-x;
 
           line-height: 1em;
+          float: right;
+          
 
 }
 #elixirs h2 {
