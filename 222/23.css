@@ -1,0 +1,221 @@
+#dk1{
+    display:inline-block;
+
+    position: relative;
+
+    width: 296px;
+    height: 285px;
+
+    margin-bottom: 14px;
+    text-align: center;
+    background: #fff;
+  
+    transition: all .2s linear;
+
+
+}
+
+#dk{
+
+
+    display:inline-block;
+    color: #333;
+    width: 1000px;
+    height: 285px;
+    margin-left: 250px;
+
+}
+
+
+.xiaomi9{
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    display: inline-block;
+
+    width: 200px;
+    
+}
+
+
+.xiaomi9:hover{
+
+    color:red;
+
+} 
+
+
+.haokan{
+    display: inline-block;
+    height: 18px;
+    margin: 0;
+    font-size: 12px;
+    color: #b0b0b0;
+
+
+
+}
+
+
+.kuang{
+    display: block;
+
+
+    width: 8px;
+    height: 10px;
+    line-height: 18px;
+    
+    text-align: center;
+    background:black;
+    padding: 5px 15px 13px 15px;
+    color: #fff;
+    font-size: 14px;
+    border:solid white;
+
+
+    text-decoration: none;
+    border-radius: 50px;
+
+
+    position: absolute;
+    top:140px;
+    left:20px;
+
+}
+
+
+
+
+#dk1:hover .kuang{
+
+        background: #c3441e;
+
+
+}
+
+
+#dk2{
+    display:inline-block;
+
+    position: relative;
+
+    width: 296px;
+    height: 285px;
+
+    margin-bottom: 14px;
+    text-align: center;
+    background: #fff;
+  
+    transition: all .2s linear;
+
+        position: absolute;
+        top:8px;
+        margin-left: 20px;
+    
+}
+
+.ljdh{
+
+    color: #333;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    display: inline-block;
+
+    width: 200px;
+
+}
+
+.ljdh:hover{
+
+color:red;
+
+}
+
+
+
+.h3{
+    display: inline-block;
+    height: 18px;
+    margin: 0;
+    font-size: 12px;
+    color: #b0b0b0;
+
+}
+
+#dk2:hover .kuang2{
+
+    background: #c3441e;
+
+
+}
+
+
+.kuang2{
+    display: block;
+
+
+    width: 8px;
+    height: 10px;
+    line-height: 18px;
+    
+    text-align: center;
+    background:black;
+    padding: 5px 15px 13px 15px;
+    color: #fff;
+    font-size: 14px;
+    border:solid white;
+
+
+    text-decoration: none;
+    border-radius: 50px;
+
+
+    position: absolute;
+    top:140px;
+    left:20px;
+
+}
+
+
+
+.sj:hover{
+color:red;
+
+}
+
+
+.sj{
+
+    background-image: url(sj.png);
+    display: inline-block;
+    width: 128px;
+    height: 128px;
+}
+
+
+@font-face {font-family: "iconfont";
+    src: url('iconfont.eot?t=1559661906134'); /* IE9 */
+    src: url('iconfont.eot?t=1559661906134#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAKYAAsAAAAABjwAAAJLAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCcApEXQE2AiQDCAsGAAQgBYRtBzIbhQXILrBteJMixckhoqEyfdpgQgIRfL/33Z777kvpXUaWqktV0enjg8R9FAjDIKtG1zIeoT8WyWRpTVNAo1JfllWEivVD7oHzKbmOhCPjNqUm5CbchJ5jXD7wzJMuuG0wwymFRZgfHME+ce/0/wZQIPMB5boHrTGoC6iLAynQsQZFVkAhN4xd8AKPE2gwoi6zM13voCyzxwXi1rE0KBecsswidUJNw9IsnijVpUfpF/A4+n5UdaNMUhbsnP3ziQn9Kicmd7+3s4DgIqDVJQosAZk4bgzuygnGyGkI5k2AY2UGVf8PDOKoWsH+Oju9CQzBUFDlCR41kuCxemoHeifdTrRfvPcc3h++ft69P368edq1e/3Pd5U+e9BXiz8qtu13/82bKzaQKX1Mb/Wr4NuLWlf+1SGDP32KyrJUoG4XpuBX8Ac2ZUNo61PW+I3tSfspKho04B62dvidquo+bzTU6Z5grjWcoVBnisz0JZQaLaNGnXU0WDRb3agTy4lcjwUvAKHNF5IWb1Fo801m+g9KPf5Qoy1yaHAanVs2mgmnus2kCZmo39AxolC5RqnGmRuyTr7GeWHEPBCnjgc7zXY5MqOQeIkZ6dnqiihUHAU4BaeR70cYc+SSIU1bJO61WqrpTU0jCqBqGyMaQUxId4MchkhIBZ1FtfL5DWI58Wm4o6HOe0BYyukfdTS1B5AzWTio4VFeSZ1ZuoRQkMIiATQFg4jPF0Fx8yAXMYgme4I/1tNyWqmhsub2iuDvdkEDW53CySvU3TlaaPlaAAAAAA==') format('woff2'),
+    url('iconfont.woff?t=1559661906134') format('woff'),
+    url('iconfont.ttf?t=1559661906134') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('iconfont.svg?t=1559661906134#iconfont') format('svg'); /* iOS 4.1- */
+  }
+  
+  .iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-xiangxia:before {
+    content: "\eb1f";
+  }
+  
+  
